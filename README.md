@@ -21,20 +21,20 @@ tip：
 3、若演示地址不可用，可联系微信： **xiaohudu999** 
 
 #### 系统功能
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD.png)
+![输入图片说明](%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD.png)
 
 #### 技术栈
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%8A%80%E6%9C%AF%E6%A0%88.png)
+![输入图片说明](%E6%8A%80%E6%9C%AF%E6%A0%88.png)
 
 #### 系统部分截图
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%88%AA%E5%9B%BE1.png)
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%88%AA%E5%9B%BE2.png)
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%88%AA%E5%9B%BE3.png)
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%88%AA%E5%9B%BE4.png)
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%88%AA%E5%9B%BE5.png)
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%88%AA%E5%9B%BE6.png)
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E6%88%AA%E5%9B%BE7.png)
+![输入图片说明](%E6%88%AA%E5%9B%BE1.png)
+![输入图片说明](%E6%88%AA%E5%9B%BE2.png)
+![输入图片说明](%E6%88%AA%E5%9B%BE3.png)
+![输入图片说明](%E6%88%AA%E5%9B%BE4.png)
+![输入图片说明](%E6%88%AA%E5%9B%BE5.png)
+![输入图片说明](%E6%88%AA%E5%9B%BE6.png)
+![输入图片说明](%E6%88%AA%E5%9B%BE7.png)
 
 #### 联系方式
-![输入图片说明](https://gitee.com/xiaohudu/spring-vue-admin/raw/master/%E5%BE%AE%E4%BF%A1.jpg)
+![输入图片说明](%E5%BE%AE%E4%BF%A1.jpg)
 
